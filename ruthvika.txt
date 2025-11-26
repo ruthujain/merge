@@ -1,0 +1,6 @@
+pointttt 1
+pointttt 2
+pointttt 3
+pointttt 4
+pointttt 5
+pointttt 6
